@@ -1,0 +1,3 @@
+First class objects: Assigning a function to a variable
+High order function: Function which accepts lambda or returns lambda
+pure functions: Immutability
